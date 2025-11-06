@@ -1,0 +1,6 @@
+echo .ipynb_checkpoints/>> .gitignore
+echo .venv/>> .gitignore
+echo __pycache__/>> .gitignore
+echo *.pyc>> .gitignore
+echo .DS_Store>> .gitignore
+echo Thumbs.db>> .gitignore
